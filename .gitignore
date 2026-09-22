@@ -1,0 +1,12 @@
+# Arquivos temporários do VS Code
+tempCodeRunnerFile.py
+
+# Arquivos temporários gerados pelo programa
+temp_rodada_*.txt
+
+# Arquivos de partes gerados pelo programa
+parte_*.txt
+
+# Cache do Python
+__pycache__/
+*.pyc
